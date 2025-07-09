@@ -1,0 +1,54 @@
+別LAYERセットの選択（ユーザが用意した別のMSレイヤー）
+
+クレオス・田宮・ガイアの塗料色データベース 使用色提案
+
+ビフォーアフター比較
+
+使用色の履歴
+保存した配色の履歴
+
+グループの部位を分かりやすく表示
+
+カスタムプリセットの保存
+
+色彩理論に基づいた配色（補色、三色配色など）
+
+ 暖色系・寒色系・セピア調・ネオン風変換
+
+画像アップロード
+
+色の使用比率: 各色がどのくらい使われているか
+
+発火のタイミングをしっかり管理
+
+モノアイ・指 の色
+
+英語対応
+
+
+Select a different LAYER set (another MS layer prepared by the user)
+
+Paint color database for Creos, Tamiya, and Gaia. Color suggestions
+
+Before and after comparison
+
+Color history
+Saved color scheme history
+
+Easily display group parts
+
+Save custom presets
+
+Color schemes based on color theory (complementary colors, tricolor schemes, etc.)
+
+Warm colors, cool colors, sepia tones, neon-like conversion
+
+Image upload
+
+Color usage ratio: How much of each color is used
+
+Manage ignition timing carefully
+
+Monoeye and finger colors
+
+English support
